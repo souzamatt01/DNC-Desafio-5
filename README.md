@@ -2,7 +2,7 @@
 
 Quinta prova da formação em Cientista de Dados pela Escola DNC
 
-**Arquivo da Base de Dados utilizada se encontra dentro deste repositório com o nome : "dataset_DESAFIO5"**
+**Arquivo da Base de Dados utilizada :** https://1drv.ms/x/c/69e90b17d093c171/EV5ZGf6QddBBoxD9A1R3AUIBbyLEpjKf_8YvewHyjk9uCQ?e=Fdzzp7
 
 **Contexto:** Uma empresa do ramo de e-commerce contratou você para levantar os indicadores de recência, frequência e ticket médio (RFM) dos seus clientes.
 
